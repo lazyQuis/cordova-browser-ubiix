@@ -1,0 +1,10 @@
+{
+  "name": "cordova-browser-ubiix",
+  "version": "1.0.0",
+  "description": "browser for sip",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
