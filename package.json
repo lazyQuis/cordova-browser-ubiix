@@ -2,9 +2,7 @@
   "name": "cordova-browser-ubiix",
   "version": "1.0.0",
   "description": "browser for sip",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "url" : "http://rd.ubiix.com:8070/chris/cordova-browser-ubiix.git",
   "author": "",
   "license": "ISC"
 }
